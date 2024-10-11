@@ -11,7 +11,6 @@
 <a href="https://github.com/boru-to/Phantom-Error/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/boru-to/Phantom-Error?label=Watching&style=social"></a>
   
 ***
-[`❚❚𝕻𝖍𝖆𝖓𝖙𝖔𝖒-𝕰𝖗𝖗𝖔𝖗❚❚`](https://github.com/boru-to/Phantom-Error/fork)
 
 ## ```Bot Support Group Chats```
 
@@ -22,7 +21,8 @@
 # Setup For Deployment ☊
 
 - [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗣𝗟𝗘𝗔𝗦𝗘+𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
-  [`CLICK HERE TO FORK`](https://github.com/boru-to/Phantom-Error/fork)
+  [`❚❚𝕻𝖍𝖆𝖓𝖙𝖔𝖒-𝕰𝖗𝖗𝖔𝖗❚❚`](https://github.com/boru-to/Phantom-Error/fork)
+  
 
 ## `Generate Pair Code For Session`
 
